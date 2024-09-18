@@ -29,7 +29,7 @@ The **Expense Tracker CLI** is a simple command-line tool for managing and track
    git clone https://github.com/yourusername/expense-tracker-cli.git
    cd expense-tracker-cli
    ```
-````
+
 
 2. Install dependencies:
 
