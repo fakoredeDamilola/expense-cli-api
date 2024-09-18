@@ -1,6 +1,3 @@
-Here is your README file written in Markdown:
-
-
 # Expense Tracker CLI
 
 ## Overview
