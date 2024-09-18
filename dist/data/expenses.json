@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "description": "Breakfast",
+    "amount": 40,
+    "createdAt": "2024-09-17T10:30:04.776Z",
+    "updatedAt": "2024-09-17T10:30:04.776Z"
+  },
+  {
+    "id": 2,
+    "description": "Breakfast-lunch",
+    "amount": 30,
+    "createdAt": "2024-09-17T10:30:11.118Z",
+    "updatedAt": "2024-09-17T10:30:11.119Z",
+    "category": "food"
+  },
+  {
+    "id": 3,
+    "description": "Brunch",
+    "amount": 100,
+    "createdAt": "2024-09-17T22:00:45.920Z",
+    "updatedAt": "2024-09-17T22:00:45.921Z"
+  },
+  {
+    "id": 4,
+    "description": "Brunch",
+    "amount": 10,
+    "createdAt": "2024-09-17T22:02:07.815Z",
+    "updatedAt": "2024-09-17T22:02:07.816Z"
+  },
+  {
+    "id": 5,
+    "description": "Brunch",
+    "amount": 10,
+    "createdAt": "2024-09-17T22:11:32.558Z",
+    "updatedAt": "2024-09-17T22:11:32.564Z"
+  }
+]
